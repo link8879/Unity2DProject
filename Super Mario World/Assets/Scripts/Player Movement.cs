@@ -3,18 +3,22 @@ using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
-    [SerializeField] private float PlayerSpeed = 1.0f;
+    [SerializeField] private float playerSpeed = 1.0f;
     private Vector2 moveInput;
-    private Rigidbody2D p_rigidbody;
+    
+    private Rigidbody2D playerRigidbody;
+
+    private Animator playerAnimator;
 
     void Start()
     {
-        p_rigidbody = GetComponent<Rigidbody2D>();
+        playerRigidbody = GetComponent<Rigidbody2D>();
+        playerAnimator = GetComponent<Animator>();
     }
 
     void Update()
     {
-        Run();
+        Walk();
     }
 
     void OnMove(InputValue value)
@@ -23,10 +27,13 @@ public class PlayerMovement : MonoBehaviour
         Debug.Log("1");
     }
 
-    void Run()
+    void Walk()
     {
-        Vector2 playerVelocity = new Vector2(moveInput.x * PlayerSpeed, p_rigidbody.linearVelocity.y);
-        p_rigidbody.linearVelocity = playerVelocity;
+        Vector2 playerVelocity = new Vector2(moveInput.x * playerSpeed , playerRigidbody.linearVelocity.y);
+        playerRigidbody.linearVelocity = playerVelocity;
+
+        bool playerHorizontalSpeed = Mathf.Abs(playerRigidbody.linearVelocity.x) > Mathf.Epsilon;
+        playerAnimator.SetBool("Walk",playerHorizontalSpeed);
     }
 
 
