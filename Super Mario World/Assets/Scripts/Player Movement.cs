@@ -4,11 +4,14 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private float playerSpeed = 1.0f;
+    [SerializeField] private float jumpSpeed = 1.0f;
+
     private Vector2 moveInput;
     
     private Rigidbody2D playerRigidbody;
 
     private Animator playerAnimator;
+
 
     void Start()
     {
@@ -19,12 +22,22 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         Walk();
+        Fall();
+        FlipSprite();
     }
 
     void OnMove(InputValue value)
     {
         moveInput = value.Get<Vector2>();
-        Debug.Log("1");
+    }
+
+    void OnJump(InputValue value)
+    {
+        if (value.isPressed)
+        {
+            playerRigidbody.linearVelocity += new Vector2(0f, jumpSpeed);
+            playerAnimator.SetBool("Jump", true);
+        }
     }
 
     void Walk()
@@ -36,5 +49,32 @@ public class PlayerMovement : MonoBehaviour
         playerAnimator.SetBool("Walk",playerHorizontalSpeed);
     }
 
+    void Fall()
+    {
+        if (playerRigidbody.linearVelocity.y < 0f)
+        {
+            Debug.Log(1);
+            playerAnimator.SetBool("Fall",true);
+            //playerAnimator.SetBool("Jump",false);
+        }
+        else if(playerRigidbody.linearVelocity.y == 0f)
+        {
+            playerAnimator.SetBool("Fall",false);
+            playerAnimator.SetBool("Jump",false);
+        }
+        else
+        {
+
+        }
+    }
+
+    void FlipSprite()
+    {
+        bool playerHorizontalSpeed = Mathf.Abs(playerRigidbody.linearVelocity.x) > Mathf.Epsilon;
+        if (playerHorizontalSpeed)
+        {
+            transform.localScale = new Vector2(-Mathf.Sign(playerRigidbody.linearVelocity.x), 1f);
+        }
+    }
 
 }
