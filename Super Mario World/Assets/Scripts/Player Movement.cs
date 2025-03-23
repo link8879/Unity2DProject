@@ -5,6 +5,7 @@ public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private float playerSpeed = 1.0f;
     [SerializeField] private float jumpSpeed = 1.0f;
+    [SerializeField] private float spinJumpSpeed = 1.0f;
 
     private Vector2 moveInput;
     
@@ -12,11 +13,14 @@ public class PlayerMovement : MonoBehaviour
 
     private Animator playerAnimator;
 
+    private bool isSpinJump;
 
     void Start()
     {
         playerRigidbody = GetComponent<Rigidbody2D>();
         playerAnimator = GetComponent<Animator>();
+
+        isSpinJump = false;
     }
 
     void Update()
@@ -29,6 +33,22 @@ public class PlayerMovement : MonoBehaviour
     void OnMove(InputValue value)
     {
         moveInput = value.Get<Vector2>();
+        Debug.Log(moveInput);
+        if (moveInput.y > 0.0f)
+        {
+            playerAnimator.SetBool("Look Up",true);
+            playerAnimator.SetBool("Duck",false);
+        }
+        else if (moveInput.y < 0.0f)
+        {
+            playerAnimator.SetBool("Look Up", false);
+            playerAnimator.SetBool("Duck", true);
+        }
+        else
+        {
+            playerAnimator.SetBool("Look Up", false);
+            playerAnimator.SetBool("Duck", false);
+        }
     }
 
     void OnJump(InputValue value)
@@ -36,7 +56,20 @@ public class PlayerMovement : MonoBehaviour
         if (value.isPressed)
         {
             playerRigidbody.linearVelocity += new Vector2(0f, jumpSpeed);
-            playerAnimator.SetBool("Jump", true);
+            if (moveInput.y == 0f)
+            {
+                playerAnimator.SetBool("Jump", true);
+            }
+        }
+    }
+
+    void OnSpinJump(InputValue value)
+    {
+        if (value.isPressed)
+        {
+            playerRigidbody.linearVelocity += new Vector2(0f, spinJumpSpeed);
+            playerAnimator.SetBool("SpinJump",true);
+            isSpinJump = true;
         }
     }
 
@@ -46,25 +79,25 @@ public class PlayerMovement : MonoBehaviour
         playerRigidbody.linearVelocity = playerVelocity;
 
         bool playerHorizontalSpeed = Mathf.Abs(playerRigidbody.linearVelocity.x) > Mathf.Epsilon;
-        playerAnimator.SetBool("Walk",playerHorizontalSpeed);
+
+        if (!isSpinJump)
+        {
+            playerAnimator.SetBool("Walk", playerHorizontalSpeed);
+        }
     }
 
     void Fall()
     {
         if (playerRigidbody.linearVelocity.y < 0f)
         {
-            Debug.Log(1);
             playerAnimator.SetBool("Fall",true);
-            //playerAnimator.SetBool("Jump",false);
         }
         else if(playerRigidbody.linearVelocity.y == 0f)
         {
             playerAnimator.SetBool("Fall",false);
             playerAnimator.SetBool("Jump",false);
-        }
-        else
-        {
-
+            playerAnimator.SetBool("SpinJump",false);
+            isSpinJump = false;
         }
     }
 
