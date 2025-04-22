@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using System.Collections.Generic;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -8,19 +9,23 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float spinJumpSpeed = 1.0f;
 
     private Vector2 moveInput;
-    
     private Rigidbody2D playerRigidbody;
-
     private Animator playerAnimator;
-
     private bool isSpinJump;
+    private List<Collider2D> myColliders;
 
     void Start()
     {
         playerRigidbody = GetComponent<Rigidbody2D>();
         playerAnimator = GetComponent<Animator>();
-
+        myColliders = new List<Collider2D>(GetComponentsInChildren<Collider2D>());
         isSpinJump = false;
+        
+
+        foreach(Collider2D col in myColliders)
+        {
+            Debug.Log(col.name);
+        }
     }
 
     void Update()
@@ -53,6 +58,11 @@ public class PlayerMovement : MonoBehaviour
 
     void OnJump(InputValue value)
     {
+        if (!myColliders[0].IsTouchingLayers(LayerMask.GetMask("Ground")))
+        {
+            return;
+        }
+
         if (value.isPressed)
         {
             playerRigidbody.linearVelocity += new Vector2(0f, jumpSpeed);
@@ -65,6 +75,11 @@ public class PlayerMovement : MonoBehaviour
 
     void OnSpinJump(InputValue value)
     {
+        if (!myColliders[0].IsTouchingLayers(LayerMask.GetMask("Ground")))
+        {
+            return;
+        }
+
         if (value.isPressed)
         {
             playerRigidbody.linearVelocity += new Vector2(0f, spinJumpSpeed);
