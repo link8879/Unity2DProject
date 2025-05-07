@@ -2,8 +2,10 @@ using UnityEngine;
 
 public class QuestionBlock : MonoBehaviour
 {
+    [SerializeField] private GameObject item;
     private Animator blockAnimator;
-
+    bool isTouched = false;
+    
     void Start()
     {
         blockAnimator = GetComponent<Animator>();    
@@ -11,10 +13,11 @@ public class QuestionBlock : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.tag == "Player")
+        if(collision.gameObject.tag == "Player" && !isTouched)
         {
-            Debug.Log("Touched the block");
             blockAnimator.SetBool("Touched", true);
+            Instantiate(item, transform.position, Quaternion.identity);
+            isTouched = true;
         }
     }
 }

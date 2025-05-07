@@ -38,7 +38,6 @@ public class PlayerMovement : MonoBehaviour
     void OnMove(InputValue value)
     {
         moveInput = value.Get<Vector2>();
-        Debug.Log(moveInput);
         if (moveInput.y > 0.0f)
         {
             playerAnimator.SetBool("Look Up",true);
