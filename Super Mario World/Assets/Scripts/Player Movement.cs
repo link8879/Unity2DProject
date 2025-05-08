@@ -20,12 +20,6 @@ public class PlayerMovement : MonoBehaviour
         playerAnimator = GetComponent<Animator>();
         myColliders = new List<Collider2D>(GetComponentsInChildren<Collider2D>());
         isSpinJump = false;
-        
-
-        foreach(Collider2D col in myColliders)
-        {
-            Debug.Log(col.name);
-        }
     }
 
     void Update()
