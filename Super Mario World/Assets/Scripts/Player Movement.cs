@@ -18,8 +18,8 @@ public class PlayerMovement : MonoBehaviour
     {
         playerRigidbody = GetComponent<Rigidbody2D>();
         playerAnimator = GetComponent<Animator>();
-        myColliders = new List<Collider2D>(GetComponentsInChildren<Collider2D>());
         isSpinJump = false;
+        myColliders = new List<Collider2D>(GetComponentsInChildren<Collider2D>());
     }
 
     void Update()
