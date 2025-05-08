@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2281402806209473672}
   - component: {fileID: 7255928940011313794}
   - component: {fileID: 3488570299441347781}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Mushroom
   m_TagString: Mushroom
   m_Icon: {fileID: 0}
@@ -77,8 +77,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1604590081
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 4315506946141470425, guid: 56df7b8658fb34743935afd8f736a73f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -190,7 +190,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5486405712731921804}
   - component: {fileID: 7216343491933463662}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: HalfCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
