@@ -1929,6 +1929,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 037e961e316694842bd331342ddd277a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  SmallMario: {fileID: 9100000, guid: b7b2edfe60f465b4099d56ce8b3d1a1d, type: 2}
+  BigMario: {fileID: 9100000, guid: cc9519ab0bb4f2c4d8fbfa77b78960ef, type: 2}
+  playerAnimator: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0

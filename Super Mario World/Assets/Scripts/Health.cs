@@ -1,10 +1,16 @@
+using UnityEditor.Tilemaps;
 using UnityEngine;
 
 public class Health : MonoBehaviour
 {
+    // 추가한 것
+    [SerializeField] public RuntimeAnimatorController SmallMario;
+    [SerializeField] public RuntimeAnimatorController BigMario;
+
     private int life = 10;
     private int health = 1;
-    private Animator playerAnimator;
+    public Animator playerAnimator;
+
 
     void Start()
     {
@@ -18,9 +24,12 @@ public class Health : MonoBehaviour
         {
             case "Mushroom":
                 Debug.Log("Mushroom collision detected");
-                playerAnimator.Play("Transformation");
-                Transforming();
-                health++;
+                if (health == 1)
+                {
+                    playerAnimator.Play("Transformation");
+                    Transforming();
+                    health++;
+                }
                 Destroy(collision.gameObject);
                 break;
         }
@@ -37,8 +46,8 @@ public class Health : MonoBehaviour
         return health;
     }
 
-    void Transforming()
+    public void Transforming()
     {
-
+        playerAnimator.runtimeAnimatorController = BigMario;
     }
 }
