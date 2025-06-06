@@ -13,6 +13,7 @@ public class Goomba : MonoBehaviour
     void Update()
     {
         rb.linearVelocity = new Vector2(moveSpeed, rb.linearVelocity.y);
+        Debug.Log(rb.linearVelocity);
     }
 
     void OnCollisionEnter2D(Collision2D collision)
