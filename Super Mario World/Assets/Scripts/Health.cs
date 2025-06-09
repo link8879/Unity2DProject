@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEditor.Tilemaps;
 using UnityEngine;
 
@@ -34,7 +35,8 @@ public class Health : MonoBehaviour
                 Debug.Log("Mushroom collision detected");
                 if (health == 1)
                 {
-                    playerAnimator.Play("Transformation");
+                    // playerAnimator.Play("Transformation");
+                    StartCoroutine(TransformToBigAfterAnimation());
                     Transforming();
                     health++;
                 }
@@ -54,9 +56,27 @@ public class Health : MonoBehaviour
         return health;
     }
 
+    IEnumerator TransformToBigAfterAnimation()
+    {
+        playerAnimator.Play("Transformation");
+
+        AnimatorClipInfo[] clipInfo = playerAnimator.GetCurrentAnimatorClipInfo(0);
+        if (clipInfo.Length > 0)
+        {
+            float clipLength = clipInfo[0].clip.length;
+            yield return new WaitForSeconds(clipLength);
+        }
+        else
+        {
+            yield return new WaitForSeconds(1f);
+        }
+
+        playerAnimator.runtimeAnimatorController = BigMario;
+    }
+
     public void Transforming()
     {
-        playerAnimator.runtimeAnimatorController = BigMario;
+        // playerAnimator.runtimeAnimatorController = BigMario;
 
         leftCollider.size = new Vector2(0.48f, 1.2f);
         rightCollider.size = new Vector2(0.48f, 1.4f);
