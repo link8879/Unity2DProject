@@ -1,0 +1,2834 @@
+fileFormatVersion: 2
+guid: 43d899c3246649b43a981c1dd6274cba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1334406676633024602
+    second: FireMario_0
+  - first:
+      213: 6144906061959368307
+    second: FireMario_1
+  - first:
+      213: 9014676323489075216
+    second: FireMario_2
+  - first:
+      213: -509138779408948030
+    second: FireMario_3
+  - first:
+      213: -3896420621737185660
+    second: FireMario_4
+  - first:
+      213: 3410795864949761149
+    second: FireMario_5
+  - first:
+      213: 6912533901526859550
+    second: FireMario_6
+  - first:
+      213: -7867962590610321903
+    second: FireMario_7
+  - first:
+      213: 8565357050343865486
+    second: FireMario_8
+  - first:
+      213: 2152014748298572092
+    second: FireMario_9
+  - first:
+      213: 8650239085035196971
+    second: FireMario_10
+  - first:
+      213: -8858407502338303472
+    second: FireMario_11
+  - first:
+      213: -4196304618527414834
+    second: FireMario_12
+  - first:
+      213: 3447351703864309220
+    second: FireMario_13
+  - first:
+      213: -1407785083626407337
+    second: FireMario_14
+  - first:
+      213: -609621044018600849
+    second: FireMario_15
+  - first:
+      213: 2582138628944622864
+    second: FireMario_16
+  - first:
+      213: -6545924542741039339
+    second: FireMario_17
+  - first:
+      213: -6975222622405033978
+    second: FireMario_18
+  - first:
+      213: 943896476445661307
+    second: FireMario_19
+  - first:
+      213: -4830124489921370897
+    second: FireMario_20
+  - first:
+      213: 3186675321252033042
+    second: FireMario_21
+  - first:
+      213: 7964452809234967851
+    second: FireMario_22
+  - first:
+      213: -140669096569710212
+    second: FireMario_23
+  - first:
+      213: 5457112526237852673
+    second: FireMario_24
+  - first:
+      213: -3492693914673803264
+    second: FireMario_25
+  - first:
+      213: 8738839983271291137
+    second: FireMario_26
+  - first:
+      213: -5111780130681716352
+    second: FireMario_27
+  - first:
+      213: 1491357690915147977
+    second: FireMario_28
+  - first:
+      213: 6638745858168306103
+    second: FireMario_29
+  - first:
+      213: -514520407785295583
+    second: FireMario_30
+  - first:
+      213: 1903641923837311556
+    second: FireMario_31
+  - first:
+      213: 3007760557304333586
+    second: FireMario_32
+  - first:
+      213: -832234726887974364
+    second: FireMario_33
+  - first:
+      213: 105250071549808857
+    second: FireMario_34
+  - first:
+      213: -8357107064833242003
+    second: FireMario_35
+  - first:
+      213: 2796771408932196194
+    second: FireMario_36
+  - first:
+      213: 6164560633152569761
+    second: FireMario_37
+  - first:
+      213: 1634943263964496232
+    second: FireMario_38
+  - first:
+      213: 7380342546132503770
+    second: FireMario_39
+  - first:
+      213: -3522586491401746686
+    second: FireMario_40
+  - first:
+      213: -8534344085757962687
+    second: FireMario_41
+  - first:
+      213: -143149279233130311
+    second: FireMario_42
+  - first:
+      213: 7106198920132596806
+    second: FireMario_43
+  - first:
+      213: -8237123025342082741
+    second: FireMario_44
+  - first:
+      213: -7992866070816735089
+    second: FireMario_45
+  - first:
+      213: 6628332346218478302
+    second: FireMario_46
+  - first:
+      213: -2778278780426849222
+    second: FireMario_47
+  - first:
+      213: 3633033833357445102
+    second: FireMario_48
+  - first:
+      213: 2351622334533881601
+    second: FireMario_49
+  - first:
+      213: 1398611345102296608
+    second: FireMario_50
+  - first:
+      213: -6878281358848066090
+    second: FireMario_51
+  - first:
+      213: 8790781781568512831
+    second: FireMario_52
+  - first:
+      213: 7571859216423525118
+    second: FireMario_53
+  - first:
+      213: -4672414984802823855
+    second: FireMario_54
+  - first:
+      213: -1281326347467064633
+    second: FireMario_55
+  - first:
+      213: 4459802623048644861
+    second: FireMario_56
+  - first:
+      213: -5854040480566136154
+    second: FireMario_57
+  - first:
+      213: 1217406000632464748
+    second: FireMario_58
+  - first:
+      213: 4079292553367343579
+    second: FireMario_59
+  - first:
+      213: -8313183429520210041
+    second: FireMario_60
+  - first:
+      213: -3395159719839368771
+    second: FireMario_61
+  - first:
+      213: -2799384701929808317
+    second: FireMario_62
+  - first:
+      213: 263590862060137744
+    second: FireMario_63
+  - first:
+      213: 6116935379550485318
+    second: FireMario_64
+  - first:
+      213: -5058986304131594637
+    second: FireMario_65
+  - first:
+      213: 5410425884406566208
+    second: FireMario_66
+  - first:
+      213: -1609908948991795917
+    second: FireMario_67
+  - first:
+      213: -4251306561290465299
+    second: FireMario_68
+  - first:
+      213: 133257157562927192
+    second: FireMario_69
+  - first:
+      213: 6562732479017580949
+    second: FireMario_70
+  - first:
+      213: 9166514776222065064
+    second: FireMario_71
+  - first:
+      213: 2186679742715649134
+    second: FireMario_72
+  - first:
+      213: -4579990435950052444
+    second: FireMario_73
+  - first:
+      213: -3351920268882611148
+    second: FireMario_74
+  - first:
+      213: 7249539149332621603
+    second: FireMario_75
+  - first:
+      213: 2035286988699975556
+    second: FireMario_76
+  - first:
+      213: 6007543560849222793
+    second: FireMario_77
+  - first:
+      213: 6786723624233766014
+    second: FireMario_78
+  - first:
+      213: 989973531772072554
+    second: FireMario_79
+  - first:
+      213: -7521501102295920044
+    second: FireMario_80
+  - first:
+      213: 1603706871230283076
+    second: FireMario_81
+  - first:
+      213: 4612386880794055206
+    second: FireMario_82
+  - first:
+      213: 4958190024645627862
+    second: FireMario_83
+  - first:
+      213: -1022861101313865038
+    second: FireMario_84
+  - first:
+      213: 2822278676703649721
+    second: FireMario_85
+  - first:
+      213: 3255572595710469347
+    second: FireMario_86
+  - first:
+      213: 606948412437582962
+    second: FireMario_87
+  - first:
+      213: -5800679570901754602
+    second: FireMario_88
+  - first:
+      213: 718968386309830169
+    second: FireMario_89
+  - first:
+      213: 1053842070487044897
+    second: FireMario_90
+  - first:
+      213: 5394200913487228291
+    second: FireMario_91
+  - first:
+      213: 2676612481302779448
+    second: FireMario_92
+  - first:
+      213: -9069392044230854082
+    second: FireMario_93
+  - first:
+      213: -1699299393011429333
+    second: FireMario_94
+  - first:
+      213: 1681507005759678680
+    second: FireMario_95
+  - first:
+      213: -5424127748541673535
+    second: FireMario_96
+  - first:
+      213: -2459869689635502049
+    second: FireMario_97
+  - first:
+      213: 37866063870045419
+    second: FireMario_98
+  - first:
+      213: -8757869352704359859
+    second: FireMario_99
+  - first:
+      213: 8958530703811062435
+    second: FireMario_100
+  - first:
+      213: -1347498515628016762
+    second: FireMario_101
+  - first:
+      213: 1747473174819142637
+    second: FireMario_102
+  - first:
+      213: 8833668016586388052
+    second: FireMario_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireMario_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3002
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a70165923c3b7de0800000000000000
+      internalID: -1334406676633024602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3002
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e8b399187174550800000000000000
+      internalID: 6144906061959368307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3002
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010d0baba509a1d70800000000000000
+      internalID: 9014676323489075216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3003
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c424f74afc2fe8f0800000000000000
+      internalID: -509138779408948030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3002
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e29d1b6122de9c0800000000000000
+      internalID: -3896420621737185660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3002
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74a3bb94c4955f20800000000000000
+      internalID: 3410795864949761149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3003
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f7a5295f04eef50800000000000000
+      internalID: 6912533901526859550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3002
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e0c98c5b16fc290800000000000000
+      internalID: -7867962590610321903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_8
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 3002
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c32282bd24ed670800000000000000
+      internalID: 8565357050343865486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_9
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 3000
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31fcbff20e7ddd10800000000000000
+      internalID: 2152014748298572092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_10
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2990
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2219bded92db0870800000000000000
+      internalID: 8650239085035196971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_11
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2990
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a587b7f4d901580800000000000000
+      internalID: -8858407502338303472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2990
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5a753be2bb3c5c0800000000000000
+      internalID: -4196304618527414834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_13
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 3002
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e57bac1c1477df20800000000000000
+      internalID: 3447351703864309220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2931
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aba5adcea867ce0800000000000000
+      internalID: -1407785083626407337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2931
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f642bafe3e03a87f0800000000000000
+      internalID: -609621044018600849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2933
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015fe0bf66995d320800000000000000
+      internalID: 2582138628944622864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_17
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2933
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517b8676f443825a0800000000000000
+      internalID: -6545924542741039339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2931
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60087423bf7033f90800000000000000
+      internalID: -6975222622405033978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2931
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78594728d4691d00800000000000000
+      internalID: 943896476445661307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2931
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe462551e53f7fcb0800000000000000
+      internalID: -4830124489921370897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2931
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2123bb92258593c20800000000000000
+      internalID: 3186675321252033042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_22
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2934
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2defcce1ab678e60800000000000000
+      internalID: 7964452809234967851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_23
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2931
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c795614b33e3c0ef0800000000000000
+      internalID: -140669096569710212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_24
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2933
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104edb9fdee8bbb40800000000000000
+      internalID: 5457112526237852673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_25
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2932
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00013b2c365778fc0800000000000000
+      internalID: -3492693914673803264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_26
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2932
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109add71aa8964970800000000000000
+      internalID: 8738839983271291137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_27
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2931
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08101d4fd0f4f09b0800000000000000
+      internalID: -5111780130681716352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2854
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c05b081bed52b410800000000000000
+      internalID: 1491357690915147977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2854
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9b7363f20912c50800000000000000
+      internalID: 6638745858168306103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2854
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121b4484a6e0cd8f0800000000000000
+      internalID: -514520407785295583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_31
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2855
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a3dd96e381b6a10800000000000000
+      internalID: 1903641923837311556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_32
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2854
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2154e838a46bdb920800000000000000
+      internalID: 3007760557304333586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_33
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2854
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a191edcee4374f0800000000000000
+      internalID: -832234726887974364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_34
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2856
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d09f47e16ce57100800000000000000
+      internalID: 105250071549808857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_35
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2855
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c05b20767950c80800000000000000
+      internalID: -8357107064833242003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_36
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2855
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f4f5b47c020d620800000000000000
+      internalID: 2796771408932196194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_37
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2853
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a18a6f0c3bec8550800000000000000
+      internalID: 6164560633152569761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_38
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2853
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861858c7c3c70b610800000000000000
+      internalID: 1634943263964496232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_39
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2854
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc0ee6617e3c6660800000000000000
+      internalID: 7380342546132503770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_40
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2854
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207c861ef324d1fc0800000000000000
+      internalID: -3522586491401746686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_41
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2853
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146d079554bef8980800000000000000
+      internalID: -8534344085757962687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_42
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2853
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0c47d2d7e630ef0800000000000000
+      internalID: -143149279233130311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_43
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2854
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64494c1844a4e9260800000000000000
+      internalID: 7106198920132596806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2776
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b415b47204cdfad80800000000000000
+      internalID: -8237123025342082741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_45
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2776
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8042b718a2a31190800000000000000
+      internalID: -7992866070816735089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2776
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda759586219cfb50800000000000000
+      internalID: 6628332346218478302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_47
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2776
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34f6ad4b229179d0800000000000000
+      internalID: -2778278780426849222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_48
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2776
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee70f36d5012b6230800000000000000
+      internalID: 3633033833357445102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_49
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2776
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f44c7cd04a2a020800000000000000
+      internalID: 2351622334533881601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_50
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2776
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02657a3bb9dd86310800000000000000
+      internalID: 1398611345102296608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_51
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2776
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd7bacfb8f6b80a0800000000000000
+      internalID: -6878281358848066090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_52
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2776
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33ed5c64712ff970800000000000000
+      internalID: 8790781781568512831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_53
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2779
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa113407d5a41960800000000000000
+      internalID: 7571859216423525118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_54
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2777
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1519d9ba35f382fb0800000000000000
+      internalID: -4672414984802823855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_55
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2777
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca70e9c970d73ee0800000000000000
+      internalID: -1281326347467064633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_56
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2777
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df87b2b4bd664ed30800000000000000
+      internalID: 4459802623048644861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_57
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2777
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2391fe23542cea0800000000000000
+      internalID: -5854040480566136154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_58
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2777
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c658027be4815e010800000000000000
+      internalID: 1217406000632464748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_59
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2776
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd15b5ad6fe8c9830800000000000000
+      internalID: 4079292553367343579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_60
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2777
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787c8ca47b3a1ac80800000000000000
+      internalID: -8313183429520210041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_61
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2699
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9724f1938f1e0d0800000000000000
+      internalID: -3395159719839368771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_62
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2699
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e9fc302769629d0800000000000000
+      internalID: -2799384701929808317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_63
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2702
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d22231e7678a300800000000000000
+      internalID: 263590862060137744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_64
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2700
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b302c9158b3e450800000000000000
+      internalID: 6116935379550485318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_65
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2700
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3768ba292cedac9b0800000000000000
+      internalID: -5058986304131594637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_66
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2700
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dc1ab1da1b51b40800000000000000
+      internalID: 5410425884406566208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_67
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2700
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d1f9e275478a9e0800000000000000
+      internalID: -1609908948991795917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_68
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2700
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def8ef6f4335005c0800000000000000
+      internalID: -4251306561290465299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_69
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2700
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8580154cdac69d100800000000000000
+      internalID: 133257157562927192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_70
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2700
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599f2c73b62831b50800000000000000
+      internalID: 6562732479017580949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_71
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2700
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1e5196f90063f70800000000000000
+      internalID: 9166514776222065064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_72
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2700
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cdb16f3a5a85e10800000000000000
+      internalID: 2186679742715649134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_73
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2615
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abb28ed6fa9070c0800000000000000
+      internalID: -4579990435950052444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_74
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2616
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434f1d156469b71d0800000000000000
+      internalID: -3351920268882611148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_75
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2615
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329224552798b9460800000000000000
+      internalID: 7249539149332621603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_76
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2615
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fbf699bbace3c10800000000000000
+      internalID: 2035286988699975556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_77
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2614
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c6a1d0a051f5350800000000000000
+      internalID: 6007543560849222793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_78
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2614
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c843bbd294f2e50800000000000000
+      internalID: 6786723624233766014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2614
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62305a9ea71dbd00800000000000000
+      internalID: 989973531772072554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_80
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2614
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45251fb19924e9790800000000000000
+      internalID: -7521501102295920044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_81
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2617
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44db88f07e2814610800000000000000
+      internalID: 1603706871230283076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_82
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2617
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622d66c3e6d720040800000000000000
+      internalID: 4612386880794055206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_83
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2616
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df43ebce870fc440800000000000000
+      internalID: 4958190024645627862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_84
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2615
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba4f996f311ec1f0800000000000000
+      internalID: -1022861101313865038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_85
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2616
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf941ed08fba2720800000000000000
+      internalID: 2822278676703649721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_86
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2615
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4a1dbe60e1e2d20800000000000000
+      internalID: 3255572595710469347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_87
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2615
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27454588d505c6800800000000000000
+      internalID: 606948412437582962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_88
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2534
+        width: 19
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d1980e9a8df7fa0800000000000000
+      internalID: -5800679570901754602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_89
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2534
+        width: 19
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916bbb620f94af900800000000000000
+      internalID: 718968386309830169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_90
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2534
+        width: 18
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1231eb497cfff9e00800000000000000
+      internalID: 1053842070487044897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_91
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2534
+        width: 18
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d6e7fa62d0cda40800000000000000
+      internalID: 5394200913487228291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_92
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2534
+        width: 18
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836dd65dedc352520800000000000000
+      internalID: 2676612481302779448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_93
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2534
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3abddaccfb032280800000000000000
+      internalID: -9069392044230854082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_94
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2534
+        width: 18
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2054809430ea68e0800000000000000
+      internalID: -1699299393011429333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_95
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2534
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8e2a576b9e55710800000000000000
+      internalID: 1681507005759678680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_96
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2534
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf85db0d80a9b4b0800000000000000
+      internalID: -5424127748541673535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_97
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2534
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18868bdc89ccddd0800000000000000
+      internalID: -2459869689635502049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_98
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2534
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec24060cf6868000800000000000000
+      internalID: 37866063870045419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_99
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2534
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42c6c2993cc57680800000000000000
+      internalID: -8757869352704359859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_100
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2534
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaa616f538135c70800000000000000
+      internalID: 8958530703811062435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_101
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2534
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b30a84d39bc4de0800000000000000
+      internalID: -1347498515628016762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_102
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2534
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb7e9f0895404810800000000000000
+      internalID: 1747473174819142637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireMario_103
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2534
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4527c50224e779a70800000000000000
+      internalID: 8833668016586388052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireMario_0: -1334406676633024602
+      FireMario_1: 6144906061959368307
+      FireMario_10: 8650239085035196971
+      FireMario_100: 8958530703811062435
+      FireMario_101: -1347498515628016762
+      FireMario_102: 1747473174819142637
+      FireMario_103: 8833668016586388052
+      FireMario_11: -8858407502338303472
+      FireMario_12: -4196304618527414834
+      FireMario_13: 3447351703864309220
+      FireMario_14: -1407785083626407337
+      FireMario_15: -609621044018600849
+      FireMario_16: 2582138628944622864
+      FireMario_17: -6545924542741039339
+      FireMario_18: -6975222622405033978
+      FireMario_19: 943896476445661307
+      FireMario_2: 9014676323489075216
+      FireMario_20: -4830124489921370897
+      FireMario_21: 3186675321252033042
+      FireMario_22: 7964452809234967851
+      FireMario_23: -140669096569710212
+      FireMario_24: 5457112526237852673
+      FireMario_25: -3492693914673803264
+      FireMario_26: 8738839983271291137
+      FireMario_27: -5111780130681716352
+      FireMario_28: 1491357690915147977
+      FireMario_29: 6638745858168306103
+      FireMario_3: -509138779408948030
+      FireMario_30: -514520407785295583
+      FireMario_31: 1903641923837311556
+      FireMario_32: 3007760557304333586
+      FireMario_33: -832234726887974364
+      FireMario_34: 105250071549808857
+      FireMario_35: -8357107064833242003
+      FireMario_36: 2796771408932196194
+      FireMario_37: 6164560633152569761
+      FireMario_38: 1634943263964496232
+      FireMario_39: 7380342546132503770
+      FireMario_4: -3896420621737185660
+      FireMario_40: -3522586491401746686
+      FireMario_41: -8534344085757962687
+      FireMario_42: -143149279233130311
+      FireMario_43: 7106198920132596806
+      FireMario_44: -8237123025342082741
+      FireMario_45: -7992866070816735089
+      FireMario_46: 6628332346218478302
+      FireMario_47: -2778278780426849222
+      FireMario_48: 3633033833357445102
+      FireMario_49: 2351622334533881601
+      FireMario_5: 3410795864949761149
+      FireMario_50: 1398611345102296608
+      FireMario_51: -6878281358848066090
+      FireMario_52: 8790781781568512831
+      FireMario_53: 7571859216423525118
+      FireMario_54: -4672414984802823855
+      FireMario_55: -1281326347467064633
+      FireMario_56: 4459802623048644861
+      FireMario_57: -5854040480566136154
+      FireMario_58: 1217406000632464748
+      FireMario_59: 4079292553367343579
+      FireMario_6: 6912533901526859550
+      FireMario_60: -8313183429520210041
+      FireMario_61: -3395159719839368771
+      FireMario_62: -2799384701929808317
+      FireMario_63: 263590862060137744
+      FireMario_64: 6116935379550485318
+      FireMario_65: -5058986304131594637
+      FireMario_66: 5410425884406566208
+      FireMario_67: -1609908948991795917
+      FireMario_68: -4251306561290465299
+      FireMario_69: 133257157562927192
+      FireMario_7: -7867962590610321903
+      FireMario_70: 6562732479017580949
+      FireMario_71: 9166514776222065064
+      FireMario_72: 2186679742715649134
+      FireMario_73: -4579990435950052444
+      FireMario_74: -3351920268882611148
+      FireMario_75: 7249539149332621603
+      FireMario_76: 2035286988699975556
+      FireMario_77: 6007543560849222793
+      FireMario_78: 6786723624233766014
+      FireMario_79: 989973531772072554
+      FireMario_8: 8565357050343865486
+      FireMario_80: -7521501102295920044
+      FireMario_81: 1603706871230283076
+      FireMario_82: 4612386880794055206
+      FireMario_83: 4958190024645627862
+      FireMario_84: -1022861101313865038
+      FireMario_85: 2822278676703649721
+      FireMario_86: 3255572595710469347
+      FireMario_87: 606948412437582962
+      FireMario_88: -5800679570901754602
+      FireMario_89: 718968386309830169
+      FireMario_9: 2152014748298572092
+      FireMario_90: 1053842070487044897
+      FireMario_91: 5394200913487228291
+      FireMario_92: 2676612481302779448
+      FireMario_93: -9069392044230854082
+      FireMario_94: -1699299393011429333
+      FireMario_95: 1681507005759678680
+      FireMario_96: -5424127748541673535
+      FireMario_97: -2459869689635502049
+      FireMario_98: 37866063870045419
+      FireMario_99: -8757869352704359859
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
